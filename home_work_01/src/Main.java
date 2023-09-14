@@ -16,6 +16,12 @@ public class Main {
         rabbit.die();
 
         //2
-        Gazzel gazzel = new Gazzel();
+        Gazelle gazelle = new Gazelle();
+        gazelle.seats = 3;
+        gazelle.loadCargo(1500);
+
+        Moto moto = new Moto();
+        moto.model = "CB750";
+        moto.makeWroomWroom();
     }
 }
