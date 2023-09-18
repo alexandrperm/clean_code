@@ -11,4 +11,4 @@
 
     Moto->Vehicle->Engine + Battery
     Gazelle->Vehicle->Engine + Battery
-главный файл: Main.java
+главный файл: Main.java.
